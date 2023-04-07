@@ -16,3 +16,5 @@ SQL project aimed at addressing following issues:
     Recreate the following table output:
 
     customer_id	order_date	product_name	price	member
+
+Many thanks to https://8weeksqlchallenge.com/case-study-1/ for dataset and questions. 
